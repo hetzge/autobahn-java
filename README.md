@@ -322,7 +322,7 @@ aar artifact in `autobahn/build/outputs/aar/`
 To produce a build for non-android systems make sure you have docker and make
 installed then just use run below command on the root directory of the project
 ```shell
-make build_autobahn
+make build_netty
 ```
 and that will output the jar file in `autobahn/build/libs/`.
 
